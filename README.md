@@ -73,9 +73,13 @@ This project helped strengthen both my CAD skills and my understanding of automo
 ---
 
 # Author
-### Jubayel Alom
-Mechanical Engineering Graduate  
+**Jubayel Alom**  
+Mechanical Engineering 
 CAD & Automotive Design Enthusiast
+MSc in Mechanical Engineering for Sustainability  
+University of Bologna  
+📧 Email: jubayelalom217@gmail.com 
+
 
 - LinkedIn: www.linkedin.com/in/jubayel-alom
 - GitHub: https://github.com/JubayelAlom
