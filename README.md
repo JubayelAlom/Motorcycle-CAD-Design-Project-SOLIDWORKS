@@ -68,7 +68,7 @@ This project helped strengthen both my CAD skills and my understanding of automo
 ![Image Alt](https://github.com/JubayelAlom/Motorcycle-CAD-Design-Project-SOLIDWORKS/blob/2c98e9d658aaedf06c8cf3c2fe92204632e8042f/Front%20View.png)
 
 ## Exploded View & Engineering Drawing
-(Add Drawing/Image Here)
+![Image Alt](https://github.com/JubayelAlom/Motorcycle-CAD-Design-Project-SOLIDWORKS/blob/c57a928516e97935bd1c246a448cf9cb428c5f29/Bill%20of%20materials%20(BOM).png)
 
 ---
 
