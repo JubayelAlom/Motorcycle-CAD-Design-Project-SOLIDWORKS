@@ -65,7 +65,7 @@ This project helped strengthen both my CAD skills and my understanding of automo
 
 # Project Preview
 ## Complete Motorcycle Assembly
-[Image Alt](https://github.com/JubayelAlom/Motorcycle-CAD-Design-Project-SOLIDWORKS/blob/2c98e9d658aaedf06c8cf3c2fe92204632e8042f/Front%20View.png)
+![Image Alt](https://github.com/JubayelAlom/Motorcycle-CAD-Design-Project-SOLIDWORKS/blob/2c98e9d658aaedf06c8cf3c2fe92204632e8042f/Front%20View.png)
 
 ## Exploded View & Engineering Drawing
 (Add Drawing/Image Here)
