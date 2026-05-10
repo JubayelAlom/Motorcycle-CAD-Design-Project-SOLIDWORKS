@@ -78,7 +78,7 @@ Mechanical Engineering Graduate
 CAD & Automotive Design Enthusiast
 
 - LinkedIn: www.linkedin.com/in/jubayel-alom
-- GitHub: (Add GitHub Profile)
+- GitHub: https://github.com/JubayelAlom
 
 ---
 
