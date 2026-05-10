@@ -77,7 +77,8 @@ This project helped strengthen both my CAD skills and my understanding of automo
 Mechanical Engineer  
 CAD & Automotive Design Enthusiast  
 MSc in Mechanical Engineering for Sustainability  
-University of Bologna 
+University of Bologna
+
 📧 Email: jubayelalom217@gmail.com 
 
 
