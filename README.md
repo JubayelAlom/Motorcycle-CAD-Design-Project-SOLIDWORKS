@@ -7,7 +7,7 @@ This project is a complete motorcycle CAD design and assembly developed in SOLID
 
 The project was created to improve my practical understanding of mechanical design, assembly workflow, weldment structures, and engineering drawing preparation using SOLIDWORKS.
 
-[![Watch Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/Kc9x2GXiKgo?si=A1TdEBTrZWye_r9J))
+[![Watch Video](https://github.com/JubayelAlom/Motorcycle-CAD-Design-Project-SOLIDWORKS/blob/35d64af9aafb1bfaf35519472bfb2d7a9344931d/isometric.png)](https://youtu.be/Kc9x2GXiKgo?si=A1TdEBTrZWye_r9J)
 ---
 
 # Project Highlights
